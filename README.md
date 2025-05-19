@@ -1,1 +1,1 @@
-# crypto.flashtech
+# crypto-flashtech
